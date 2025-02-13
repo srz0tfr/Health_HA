@@ -3,13 +3,13 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const config = {
-    apiKey: "AIzaSyCjXd8geWbwt965xPN01lk4pspAQn0b9jE",
+    apiKey: "",
     authDomain: "healthcare-assistant-a1fcf.firebaseapp.com",
     databaseURL: "https://healthcare-assistant-a1fcf-default-rtdb.firebaseio.com",
     projectId: "healthcare-assistant-a1fcf",
     storageBucket: "healthcare-assistant-a1fcf.appspot.com",
-    messagingSenderId: "305150964264",
-    appId: "1:305150964264:web:3c6406c75f8ef9c0eebb1d"
+    messagingSenderId: "3",
+    appId: ""
 };
 
 class Firebase {
